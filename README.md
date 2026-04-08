@@ -35,6 +35,12 @@ This repository packages work originally completed as part of Western Governors 
 - Recall: 0.6053
 - F1-score: 0.7188
 
+## Selected Visuals
+
+![Sentiment report visual 1](assets/report-extracts/report_image_01.png)
+
+![Sentiment report visual 2](assets/report-extracts/report_image_02.png)
+
 ## Key Takeaways
 - The model achieved strong precision, meaning positive sentiment predictions were usually correct.
 - Recall was lower than precision, showing the model still missed some positive examples.
