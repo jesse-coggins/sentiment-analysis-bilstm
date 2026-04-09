@@ -35,6 +35,9 @@ This repository packages work originally completed as part of Western Governors 
 - Recall: 0.6053
 - F1-score: 0.7188
 
+## Model Artifact
+- The trained `imdb_sentiment_bilstm_model.keras` file is included in `models/` so reviewers can inspect or load the saved network without retraining the model from scratch.
+
 ## Selected Visuals
 
 ![Sentiment report visual 1](assets/report-extracts/report_image_01.png)
@@ -52,4 +55,6 @@ This repository packages work originally completed as part of Western Governors 
 - `data/train_dataset.csv`
 - `data/validation_dataset.csv`
 - `data/test_dataset.csv`
+- `models/imdb_sentiment_bilstm_model.keras`
+- `models/README.md`
 - `requirements.txt`
