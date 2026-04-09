@@ -50,7 +50,7 @@ This repository packages work originally completed as part of Western Governors 
 - Sequence length selection mattered: a 50-token limit preserved 99.3% of the reviews while keeping the model tractable.
 
 ## Included Files
-- `notebooks/Task_2_BiLSTM.ipynb`
+- `notebooks/sentiment_bilstm.ipynb`
 - `data/imdb_labelled.txt`
 - `data/train_dataset.csv`
 - `data/validation_dataset.csv`
