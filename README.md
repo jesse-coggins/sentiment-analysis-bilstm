@@ -3,8 +3,8 @@
 ## Overview
 This project uses a Bidirectional LSTM neural network to classify movie review sentiment from text. The workflow covers text cleaning, tokenization, sequence padding, deep learning model training, and evaluation on held-out test data.
 
-## Coursework Context
-This project was completed as part of my M.S. in Data Analytics program at Western Governors University (WGU). Screenshots from the original written submission are preserved in `assets/report-extracts/`.
+## Academic Context
+Completed during my M.S. in Data Analytics at Western Governors University (WGU), then packaged here as a public portfolio project. Screenshots from the original written submission are preserved in `assets/report-extracts/`.
 
 ## Dataset
 - Source: IMDB labeled sentences dataset
